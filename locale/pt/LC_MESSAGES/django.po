@@ -1698,7 +1698,7 @@ msgstr "mandatos"
 
 #: deputies/views.py:109
 msgid "How many mandates a deputy is in the Parliament?"
-msgstr "Quantos mandatos um deputado está no Parlamento?"
+msgstr "Quantos mandatos é que um deputado está no Parlamento?"
 
 #: deputies/views_data.py:12
 msgid "time in office"
@@ -1717,7 +1717,7 @@ msgstr "Deputados"
 
 #: deputies/templates/deputies/deputy_summary.html:6
 msgid "in legislature"
-msgstr "activo"
+msgstr "na legislatura"
 
 #: deputies/templates/deputies/deputy_summary.html:8
 #: deputies/templates/deputies/parties_list/party_summary.html:8
@@ -1745,7 +1745,7 @@ msgstr "Deputados Públicos"
 
 #: deputies/templates/deputies/main_page.html:10
 msgid "Welcome to Public Deputies"
-msgstr "Bem vindo ao Deputados Públicos"
+msgstr "Bem-vindo aos Deputados Públicos"
 
 #: deputies/templates/deputies/main_page.html:14
 #, python-format
@@ -1784,7 +1784,7 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"Entretanto, apresentamos algumas análises sobre o parlamento."
+"Entretanto, nós apresentamos algumas análises dos deputados."
 
 #: deputies/templates/deputies/main_page.html:32
 msgid ""
@@ -1797,7 +1797,7 @@ msgstr ""
 
 #: deputies/templates/deputies/main_page.html:36
 msgid "How long a portuguese deputy stays in the parliament?"
-msgstr "Quanto tempo um deputado está no parlamento?"
+msgstr "Quanto tempo é que um deputado está no parlamento?"
 
 #: deputies/templates/deputies/main_page.html:38
 #, python-format
@@ -1816,8 +1816,8 @@ msgstr ""
 "\n"
 "Os deputados podem estar no parlamento durante múltiplos mandatos, limitados "
 "apenas pela sua idade máxima. Com os dados do <a href=\"%(parliament_url)s"
-"\">site oficial</a> do parlamento, colocámos a questão de quanto tempo um "
-"deputado está no parlamento. Eis o resultado:"
+"\">site oficial</a> do parlamento, colocámos a questão de quanto tempo é "
+"que um deputado está no parlamento. Eis o resultado:"
 
 #: deputies/templates/deputies/main_page.html:47
 msgid ""
@@ -1858,7 +1858,7 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"Os dados parecem ter um decaimento exponencial, com um tempo de semi-vida de "
+"Os dados parecem mostrar um declínio exponencial, com um tempo de metade-vida de "
 "~1500 dias (1 legislatura completa)."
 
 #: deputies/templates/deputies/main_page.html:67
@@ -1873,7 +1873,7 @@ msgid ""
 msgstr ""
 "\n"
 "O gráfico mostra também que ~2%% de todos os deputados que estiveram algum "
-"dia no parlamento estão lá há mais de 20 anos. Pode conhecê-los <a href="
+"dia no parlamento, estão lá pelo menos há 20 anos. Pode conhecê-los <a href="
 "\"%(url)s?ordem=mandatos\">aqui</a>.\n"
 "            "
 
@@ -1919,7 +1919,7 @@ msgid ""
 msgstr ""
 "\n"
 "Este sub-projeto tem sido possível também devido ao <a href=\"%(url)s\">demo."
-"cratica</a> ser um projeto de código aberto. Agradecemos aos seus "
+"cratica</a> ser um projeto de código aberto. Nós agradecemos aos "
 "contribuidores por isso e pelas ideias que usámos do seu código."
 
 #: deputies/templates/deputies/search_bar.html:10
@@ -1928,7 +1928,7 @@ msgstr "procurar deputados"
 
 #: deputies/templates/deputies/search_bar.html:21
 msgid "order by mandates"
-msgstr "ordenar por número de mandatos"
+msgstr "ordenar por mandatos"
 
 #: deputies/templates/deputies/analysis/mandates_distribution.html:6
 #: law/templates/law/analysis/eu_impact.html:98
@@ -2073,7 +2073,7 @@ msgstr "Lei Pública"
 
 #: law/templates/law/home.html:10
 msgid "Welcome to Public Law"
-msgstr "Bem vindo ao Lei Pública"
+msgstr "Bem-vindo à Lei Pública"
 
 #: law/templates/law/home.html:14
 #, python-format
